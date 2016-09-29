@@ -1,0 +1,16 @@
+facebook
+  http://gdurl.com/VUIL
+
+twitter
+  http://gdurl.com/YbBe
+
+rss
+  http://gdurl.com/bfNe
+
+x2_facebook
+
+
+x2_twitter
+
+
+x2_rss
