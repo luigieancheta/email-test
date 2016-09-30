@@ -1,8 +1,0 @@
-colors:
-#34495e - darkgrey
-#4fc1e9 - lightblue
-#ffce54 - yellow
-#8cc152 - green
-#d7f1fa - lightblue_2
-#FFFAED - lightyellow_2
-#E6E9ED - grey
